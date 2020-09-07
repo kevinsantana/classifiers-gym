@@ -1,2 +1,2 @@
-# classifiers-gym
-Pokémon Gyms are places where Trainers can go to sharpen their battling skills and where their Pokémon can go to gain experience. Classifiers gym it's a place where a python enthusiast can train their machine learn models, with any scikit-learn supervised classifier model, saving the resulting model in a mongoDB for later use, or to retain a model's history. Just like a Pokémon your model can envolve too!
+# Classifiers Gym
+`Pokémon Gyms` are places where Trainers can go to sharpen their battling skills and where their Pokémon can go to gain experience. Classifiers gym it's a place where a python enthusiast can train their machine learn models, with any scikit-learn supervised classifier model, saving the resulting model in a mongoDB for later use, or to retain a model's history. Just like a Pokémon your model can envolve too!
